@@ -17,7 +17,6 @@ body{
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;  
-    /* 블록/인라인 요소 학습, css 속성 학습 */
 }
 
 .navbar ul{
@@ -51,8 +50,6 @@ body{
 .logo img{
     width: 100%;
 }
-
-/* banner */
 
 .banner{
     background-image: url(main-img/banner.jpg);
@@ -96,8 +93,6 @@ body{
     padding-top: 0.5rem;
     font-size: 1rem;
 }
-
-/* large_row */
 
 .row{
     color: white;
